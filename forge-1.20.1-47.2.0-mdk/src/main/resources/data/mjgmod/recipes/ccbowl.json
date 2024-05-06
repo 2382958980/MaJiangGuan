@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:cooked_chicken"},
+    {"item": "minecraft:bowl"},
+    {"item": "mjgmod:cucumber"}
+  ],
+  "result":
+  {
+    "item": "mjgmod:ccbowl",
+    "count": 1
+  }
+}
